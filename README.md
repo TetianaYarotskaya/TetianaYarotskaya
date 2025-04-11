@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TetianaYarotskaya
 - 👀 I’m interested in a lot of different things
 - 🌱 I’m currently learning test automation 
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
